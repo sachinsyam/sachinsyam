@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Sachin, a full-time full-stack freelance developer 🚀</div>  
+### <div align="center">I'm Sachin, a full-stack developer 🚀</div>  
   
 
 <br/>  
